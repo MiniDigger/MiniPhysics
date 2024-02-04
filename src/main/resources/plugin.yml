@@ -1,0 +1,8 @@
+name: "MiniPhysics"
+version: "${version}"
+main: "dev.benndorf.miniphysics.MiniPhysics"
+api-version: "1.20"
+author: "MiniDIgger"
+load: POSTWORLD
+commands:
+  dum:
