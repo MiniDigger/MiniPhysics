@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     paperweight.paperDevBundle("1.20.4-R0.1-SNAPSHOT")
-    implementation("org.ode4j:core:0.5.2")
+    implementation("com.github.stephengold:Libbulletjme:20.0.0")
 }
 
 java {
